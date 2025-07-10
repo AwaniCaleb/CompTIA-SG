@@ -1,0 +1,12 @@
+# A+ 220-1101 & 220-1102 Study Guide
+
+**Version:** 1.0
+**Last updated:** July 2025
+
+## Download
+
+- [220-1101 PDF](./A+_220-1101_v1.0.pdf)
+
+## Usage
+
+Feel free to view, print, and annotate. Do not redistribute for profit.
