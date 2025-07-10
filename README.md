@@ -5,9 +5,9 @@ Each exam lives in its own folder with its own docs and PDF.
 
 ## 📚 Available Guides
 
-- [Security+ (SY0-601)](./SECURITYPLUS)  
-- [Network+ (N10-008)](./NETWORKPLUS)  
-- [A+ (220-1101 & 220-1102)](./A+)  
+<!-- - [Security+ (SY0-601)](./SECURITYPLUS) -->
+<!-- - [Network+ (N10-008)](./NETWORKPLUS) -->
+- [A+](./A+)
 
 *(More coming soon…)*
 
