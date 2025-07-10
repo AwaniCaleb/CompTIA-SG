@@ -1,6 +1,5 @@
 # A+ Study Guide
 
-**Version:** 1.0
 **Last updated:** July 2025
 
 ## Download
