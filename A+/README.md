@@ -1,4 +1,4 @@
-# A+ 220-1101 & 220-1102 Study Guide
+# A+ Study Guide
 
 **Version:** 1.0
 **Last updated:** July 2025
